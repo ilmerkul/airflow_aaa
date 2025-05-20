@@ -19,7 +19,7 @@ default_args = {
 DEFAULT_CONFIG = {
     "command": "python script.py",
     "MLFLOW_TRACKING_URI": "http://51.250.35.156:5000/",
-    "image": "ilmerkulov/als_airflow:argparse",
+    "image": "ilmerkulov/als_airflow:argparse_v2",
 }
 
 
